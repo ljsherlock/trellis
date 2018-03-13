@@ -7,3 +7,5 @@ php_opcache_enable: 0
 
 xdebug_remote_enable: 1
 xdebug_remote_connect_back: 1
+php_post_max_size: 80M
+php_upload_max_filesize: 80M
